@@ -1,5 +1,5 @@
 # les_1
-## firsts tаsks from kerpov cources
+## firsts tаsks from karpov cources
 #### Задание №7
 Напишите программу, проверяющую стаж работы сотрудника. В переменной worker уже содержится список, содержащий значения как на 3-ем шаге (имя, фамилия, зарплата, стаж). Поместите в переменную status следующую строку:
 user_name user_family is position
